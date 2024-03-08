@@ -33,7 +33,7 @@ We encourage you to explore our repository, contribute to projects, and engage w
 - **Email:** mrsumitcontact@gmail.com
 - **Twitter:** [@msknstitute](https://twitter.com/mskinstitute)
 - **Instagram:** [@mskinstitute_in](https://instagram.com/mskinstitute_in)
-- **Facebook:** [MSK Institute](https://www.facebook.com/MSKInstitute)
+- **LinkedIn:** [MSK Institute](https://www.facebook.com/mskinstitute)
 
 Feel free to reach out to us with any questions, feedback, or collaboration opportunities. We look forward to connecting with you!
 
